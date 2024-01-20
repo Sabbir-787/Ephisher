@@ -93,7 +93,7 @@ banner() {
 		${RED} |  __| |  ___/|  __  | | |  \___ \|  __  |  __| |  _  / 
 		${ORANGE} | |____| |    | |  | |_| |_ ____) | |  | | |____| | \ \ 
 		${RED} |______|_|    |_|  |_|_____|_____/|_|  |_|______|_|  \_\
-		${ORANGE}    ||                                         ${RED}Version : ${__version__}        
+		${ORANGE}    ||                               ${RED}Version : ${__version__}        
 		${GREEN}╭─────────────〔❨✧SABBIR✧❩ ${GREEN}─────────────╮
  ${RED} Tool Created By : Sabbir-787(Sn Sabbir)
 		${GREEN}╰─────────────〔❨✧SABBIR✧❩ ${GREEN}─────────────╯  
