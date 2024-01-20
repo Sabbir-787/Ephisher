@@ -95,7 +95,7 @@ banner() {
 		${RED} |______|_|    |_|  |_|_____|_____/|_|  |_|______|_|  \_\
 		${ORANGE}    ||                                         ${RED}Version : ${__version__}        
 		${GREEN}╭─────────────〔❨✧SABBIR✧❩ ${GREEN}─────────────╮
-                                          ${RED} Tool Created By : Sabbir-787(Sn Sabbir)
+                    ${RED} Tool Created By : Sabbir-787(Sn Sabbir)
 		${GREEN}╰─────────────〔❨✧SABBIR✧❩ ${GREEN}─────────────╯  
 	EOF
 }
