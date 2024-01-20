@@ -8,8 +8,8 @@
 __version__="1.0.0"
 
 ## DEFAULT HOST & PORT
-HOST='127.0.0.1'
-PORT='8080' 
+HOST='126.0.0.2'
+PORT='8585' 
 
 ## ANSI colors (FG & BG)
 RED="$(printf '\033[31m')"  GREEN="$(printf '\033[32m')"  ORANGE="$(printf '\033[33m')"  BLUE="$(printf '\033[34m')"
