@@ -12,8 +12,9 @@
   <img src="https://img.shields.io/github/forks/Sabbir-787/Ephisher?color=teal&style=for-the-badge">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-Sn-Sabbir-blue?style=flat-square">
+<p align="middle">
+  <img src="https://github.com/Sabbir-787/Ephisher/blob/main/author.png">
+</p>
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
