@@ -19,4 +19,13 @@
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSabbir-787%2FEphisher&title=Visitors&edge_flat=false"/></a>
+  ~#INSTALLETION (Termux)
+  ```
+  pkg update
+  pkg upgrade
+  pkg install git
+  git clone 
+  cd Ephisher 
+  bash Ephisher.sh
+  ```
 </p>
